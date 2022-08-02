@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Balachandar211
-- 👀 I’m interested in Java, Python, C, SQL
+- 👀 I’m interested in Java, Python, C, SQL, Javascript
 - 🌱 I’m currently learning Fullstack
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
