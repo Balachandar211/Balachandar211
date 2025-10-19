@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @Balachandar211
-- 👀 I’m interested in Java, Python, C, SQL, Javascript
-- 🌱 I’m currently learning Fullstack
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I am Python developer in Tata Consulatancy Services working for BFSI Domain
 
 <!---
 Balachandar211/Balachandar211 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
