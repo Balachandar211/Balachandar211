@@ -1,5 +1,5 @@
-- 👋 Hi, I’m a @Balachandar211
-- 👀 I am Python developer in Tata Consulatancy Services working for BFSI Domain
+- 👋 Hi, I’m @Balachandar211
+- 👀 I am a Python developer in Tata Consulatancy Services working for BFSI Domain
 
 <!---
 Balachandar211/Balachandar211 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
