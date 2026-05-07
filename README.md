@@ -1,6 +1,6 @@
 # Hi, I'm Balachandar M 👋
 
-### Backend/System Design Engineer & Module Lead
+### Senior Backend/System Design Engineer
 Architecting scalable, high-performance microservices and robust backend infrastructures. I specialize in turning complex requirements into modular, production-ready code.
 
 ---
@@ -17,8 +17,9 @@ Architecting scalable, high-performance microservices and robust backend infrast
 ## 🛠️ Tech Stack
 - **Languages:** Python, Go, Java
 - **Frameworks:** Flask, FastAPI, Gin, Django, DRF, Quart
-- **Infra:** Docker, Nginx, Certbot, PostgreSQL (multi‑schema)  
-- **Deployment:** Ubuntu server, Render, Vercel, Northflank,
+- **Infra:** Docker, Nginx, Certbot, PostgreSQL (multi-schema)
+- **Generative AI:** Prompt Engineering, LLM Integration
+- **Deployment:** Ubuntu server, Render, Vercel, Northflank
 - **CI/CD:** GitHub Actions, Dockerized pipelines
 
 ---
@@ -38,7 +39,10 @@ Architecting scalable, high-performance microservices and robust backend infrast
 ---
 
 ## 📫 Connect
-- ✉️ Reach me at: `balachandarspl@gmail.com`
+- [cite_start]✉️ **Email:** `balachandarspl@gmail.com` [cite: 3]
+- [cite_start]📱 **Mobile:** `+91 79048 80893` [cite: 5]
+- [cite_start]💼 **LinkedIn:** [balachandar-m-0421a9178](https://linkedin.com/in/balachandar-m-0421a9178) [cite: 3]
+- [cite_start]🌐 **Portfolio:** [balachandar-portfolio.netlify.app](https://balachandar-portfolio.netlify.app/) [cite: 4]
 
 ---
 
