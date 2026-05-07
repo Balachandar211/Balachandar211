@@ -39,10 +39,10 @@ Architecting scalable, high-performance microservices and robust backend infrast
 ---
 
 ## 📫 Connect
-- [cite_start]✉️ **Email:** `balachandarspl@gmail.com` [cite: 3]
-- [cite_start]📱 **Mobile:** `+91 79048 80893` [cite: 5]
-- [cite_start]💼 **LinkedIn:** [balachandar-m-0421a9178](https://linkedin.com/in/balachandar-m-0421a9178) [cite: 3]
-- [cite_start]🌐 **Portfolio:** [balachandar-portfolio.netlify.app](https://balachandar-portfolio.netlify.app/) [cite: 4]
+- ✉️ **Email:** [balachandarspl@gmail.com](mailto:balachandarspl@gmail.com)
+- 📱 **Mobile:** +91 79048 80893
+- 💼 **LinkedIn:** [balachandar-m-0421a9178](https://www.linkedin.com/in/balachandar-m-0421a9178)
+- 🌐 **Portfolio:** [balachandar-portfolio.netlify.app](https://balachandar-portfolio.netlify.app/)
 
 ---
 
